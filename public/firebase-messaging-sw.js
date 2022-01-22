@@ -11,7 +11,7 @@ firebase.initializeApp({
   projectId: "chat-web-app-315f4",
   storageBucket: "chat-web-app-315f4.appspot.com",
   messagingSenderId: "923342820195",
-  appId: "1:923342820195:web:19062eb18f02de592cb956"
+  appId: "1:923342820195:web:19062eb18f02de592cb956",
 });
 
 firebase.messaging();
