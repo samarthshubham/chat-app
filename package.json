@@ -9,11 +9,14 @@
     "firebase": "^7.15.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-avatar-editor": "^11.0.9",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "rsuite": "^4.7.2"
+    "rsuite": "^4.7.2",
+    "timeago-react": "^3.0.0",
+    "use-context-selector": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
